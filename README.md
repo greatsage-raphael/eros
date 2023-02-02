@@ -1,6 +1,5 @@
-[![m1ieud6fgxhqsgnec96n](https://user-images.githubusercontent.com/45850882/213618308-1fc9ee4c-f201-45eb-9439-e2973bf0a501.gif)](https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/)
+![image](https://user-images.githubusercontent.com/56563537/216317138-3447154c-43a6-4aaf-87e1-67d58579def3.png)
 
-[https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/](https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/)
 
 
 ## Getting Started
