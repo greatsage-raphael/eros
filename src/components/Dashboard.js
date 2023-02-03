@@ -114,7 +114,7 @@ export default function Dashboard() {
                 onChange={(e) => setNumWords(e.target.value)}
                 type="number"
                 className="block w-full rounded-md bg-white border border-gray-400 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm px-4 py-2 placeholder-gray-500 my-2 text-gray-900"
-                placeholder="Number Of Words - Default 200 (Optional)"
+                placeholder="Number Of Words - Default 50 (Optional)"
                 name="words"
                 id="words"
               />
